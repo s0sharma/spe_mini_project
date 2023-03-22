@@ -1,0 +1,19 @@
+    2023-03-21 22:32:51.317 [main] INFO  org.example.Main - factorial of 5.0 is: 120.0
+2023-03-21 22:32:51.320 [main] INFO  org.example.Main - factorial of 4.0 is: 24.0
+2023-03-21 22:32:51.340 [main] INFO  org.example.Main - Output of 5.0 to the power of 1.0 is: 5.0
+2023-03-21 22:32:51.341 [main] INFO  org.example.Main - Output of 4.0 to the power of 2.0 is: 16.0
+2023-03-21 22:32:51.341 [main] INFO  org.example.Main - natural logarithm of 5.0 is: 1.6094379124341003
+2023-03-21 22:32:51.341 [main] INFO  org.example.Main - natural logarithm of 4.0 is: 1.3862943611198906
+2023-03-21 22:32:51.342 [main] INFO  org.example.Main - square root of 25.0 is: 5.0
+2023-03-21 22:32:51.342 [main] INFO  org.example.Main - square root of 16.0 is: 4.0
+2023-03-21 22:57:46.689 [main] INFO  org.example.Main - factorial of 5.0 is: 120.0
+2023-03-21 22:57:46.692 [main] INFO  org.example.Main - factorial of 4.0 is: 24.0
+2023-03-21 22:57:46.715 [main] INFO  org.example.Main - Output of 5.0 to the power of 1.0 is: 5.0
+2023-03-21 22:57:46.716 [main] INFO  org.example.Main - Output of 4.0 to the power of 2.0 is: 16.0
+2023-03-21 22:57:46.717 [main] INFO  org.example.Main - natural logarithm of 5.0 is: 1.6094379124341003
+2023-03-21 22:57:46.717 [main] INFO  org.example.Main - natural logarithm of 4.0 is: 1.3862943611198906
+2023-03-21 22:57:46.718 [main] INFO  org.example.Main - square root of 25.0 is: 5.0
+2023-03-21 22:57:46.718 [main] INFO  org.example.Main - square root of 16.0 is: 4.0
+2023-03-21 22:57:46.719 [main] INFO  org.example.Main - square root of 4.0 is: 2.0
+2023-03-21 22:57:46.720 [main] INFO  org.example.Main - factorial of 0.0 is: 1.0
+2023-03-21 22:57:46.721 [main] INFO  org.example.Main - natural logarithm of 10.0 is: 2.302585092994046
